@@ -1,6 +1,6 @@
 ---
 title: "github course"
-author: "chris"
+author: "person A"
 format: html
 editor: visual
 embed-resources: true
